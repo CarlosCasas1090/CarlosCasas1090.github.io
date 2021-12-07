@@ -1,11 +1,11 @@
 {
-    "name": "vertical_landing_page",
-    "short_name": "vertical_landing_page",
+    "name": "Juan Carlos Casas",
+    "short_name": "Juan Carlos Casas",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "personal Portfolio landing Page",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
